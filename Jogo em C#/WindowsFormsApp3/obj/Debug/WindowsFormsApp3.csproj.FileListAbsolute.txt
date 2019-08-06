@@ -1,0 +1,125 @@
+c:\users\oseas\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+c:\users\oseas\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+c:\users\oseas\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+c:\users\oseas\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+c:\users\oseas\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+c:\users\oseas\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+c:\users\oseas\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+c:\users\oseas\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+c:\users\oseas\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+c:\users\oseas\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\oseas\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\oseas\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\oseas\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\oseas\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\oseas\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\oseas\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\oseas\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\oseas\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\oseas\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\oseas\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Resources.Form1.resources
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Interop.WMLSS.dll
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Interop.WMPLib.dll
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Interop.WMLSS.dll
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Interop.WMPLib.dll
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Resources.Form1.resources
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\081180038\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Cadastro.resources
+C:\Users\oseas\Desktop\Nova pasta (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Cadastro.resources
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\obj\Debug\Interop.WMLSS.dll
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\obj\Debug\Interop.WMPLib.dll
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Resources.Form1.resources
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\bin\Debug\MaterialSkin.dll
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Menu.resources
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TelaCadastro.resources
+C:\Users\081180038\Desktop\jogo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TelaLogin.resources
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\bin\Debug\MaterialSkin.dll
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\obj\Debug\Interop.WMLSS.dll
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\obj\Debug\Interop.WMPLib.dll
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Menu.resources
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Resources.Form1.resources
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TelaCadastro.resources
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TelaLogin.resources
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TelaJogo.resources
+C:\Users\081180038\Desktop\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TelaMorte.resources
+E:\jogo2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\jogo2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\jogo2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\jogo2\WindowsFormsApp3\bin\Debug\MaterialSkin.dll
+E:\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+E:\jogo2\WindowsFormsApp3\obj\Debug\Interop.MediaPlayer.dll
+E:\jogo2\WindowsFormsApp3\obj\Debug\Interop.WMLSS.dll
+E:\jogo2\WindowsFormsApp3\obj\Debug\Interop.WMPDXMLib.dll
+E:\jogo2\WindowsFormsApp3\obj\Debug\Interop.WMPLauncher.dll
+E:\jogo2\WindowsFormsApp3\obj\Debug\Interop.WMPLib.dll
+E:\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+E:\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TelaJogo.resources
+E:\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TelaMorte.resources
+E:\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Menu.resources
+E:\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Resources.Form1.resources
+E:\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TelaCadastro.resources
+E:\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TelaLogin.resources
+E:\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\jogo2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
